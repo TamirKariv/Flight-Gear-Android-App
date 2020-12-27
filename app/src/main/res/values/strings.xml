@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex4</string>
+    <string name="defualt_ip">10.0.2.2</string>
+    <string name="defualt_port">1234</string>
+    <string name="IP">IP:</string>
+    <string name="port">Port:</string>
+    <string name="Connect_connectactivity">Send</string>
+</resources>
